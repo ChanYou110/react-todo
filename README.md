@@ -19,7 +19,11 @@ Reactを使用して構築されたシンプルで直感的なToDoアプリケ�
 1. リポジトリをクローンします：
 
 ```zsh
+# https
 git clone https://github.com/yourusername/react-todo-app.git
+
+# ssh
+git clone git@github.com:ChanYou110/react-todo.git
 ```
 
 2. dockerコンテナのビルド：
