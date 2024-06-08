@@ -1,5 +1,5 @@
 FROM node:20.14.0-alpine3.20
-COPY ./front /front
+COPY ./front ./
 WORKDIR /front
 RUN npm install
 EXPOSE 3000
